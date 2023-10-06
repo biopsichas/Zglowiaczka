@@ -47,7 +47,7 @@ urea                   0.46000       0.00000       0.00000       0.00000       1
 dairy_fr               0.00700       0.00500       0.03100       0.00300       0.99000              null  Dairy_FreshManure
 beef_fr                0.01000       0.00400       0.03000       0.00700       0.99000      fresh_manure  Beef_FreshManure
 veal_fr                0.02300       0.00600       0.02900       0.00700       0.99000      fresh_manure  Veal_FreshManure
-swine_fr               0.02600       0.01100       0.02100       0.00500       0.99000      fresh_manure  Swine_FreshManure
+swine_fr               0.00080       0.00080       0.00300       0.00080       0.99000      fresh_manure  Swine_FreshManure
 sheep_fr               0.01400       0.00300       0.02400       0.00500       0.99000      fresh_manure  Sheep_FreshManure
 goat_fr                0.01300       0.00300       0.02200       0.00500       0.99000      fresh_manure  Goat_FreshManure
 horse_fr               0.00600       0.00100       0.01400       0.00300       0.99000      fresh_manure  Horse_FreshManure
