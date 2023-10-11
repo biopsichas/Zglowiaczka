@@ -1,0 +1,1 @@
+The 'management.sch' file is zipped since GitHub doesn't allow the upload of large files. To run the model, please unzip it.
